@@ -1,0 +1,34 @@
+{
+	"debug": true,
+	"process": {
+		"file_limit": 1000000,
+		"core_limit": 1000000000
+	},
+	"log": {
+		"path": "log/log",
+		"flag": "fatal,error,warn,info,debug,trace",
+		"num": 10
+	},
+	"start_num" : 0,
+	"chain_type": 1 ,
+	"block_db_path" : "./db",
+	"httpurl" : "http://127.0.0.1:8080",
+	"db_history": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "pass": "abcd1234",
+        "name": "mt"
+    },
+	"matchengine": {
+        "name": "matchengine",
+        "addr": [
+            "tcp@127.0.0.1:7316"
+        ],
+        "max_pkg_size": 2000000
+    },
+	"history_thread" : 4,
+	"pledge_ad" : "wg7z9PrQR9DdS8m",
+	"priv":"cb42cfc269c7627de3c6ccf42a3e324b3a6cc4ceb6e6343ed8a1dac80db66a97",
+	"end_num" : 34219
+
+}

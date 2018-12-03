@@ -1,0 +1,28 @@
+{
+    "debug": true,
+    "process": {
+        "file_limit": 1000000,
+        "core_limit": 1000000000
+    },
+    "log": {
+        "path": "log/log",
+        "flag": "fatal,error,warn,info,debug,trace",
+        "num": 10
+    },
+    "svr": {
+        "bind": [
+            "tcp@0.0.0.0:8190",
+            "udp@0.0.0.0:8190"
+        ],
+        "buf_limit": 100,
+        "max_pkg_size": 1024000,
+        "heartbeat_check": false
+    },
+	"db_history": {
+		"host": "bttest8.cqyuogzfvqpo.us-east-1.rds.amazonaws.com",
+		"user": "bytetrade",
+		"pass": "licaishenqi1234.",
+		"name": "marketing"
+	},
+    "worker_num": 8
+}

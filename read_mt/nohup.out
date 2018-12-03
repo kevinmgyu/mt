@@ -1,0 +1,118 @@
+process: read_mt version: 0.1.0, compile date: Nov 20 2018 20:17:36
+load monitor_address fail: -416
+./read_mt.exe: load config fail: -48
+process: read_mt version: 0.1.0, compile date: Nov 20 2018 20:27:07
+load monitor_address fail: -416
+./read_mt.exe: load config fail: -48
+process: read_mt version: 0.1.0, compile date: Nov 20 2018 20:28:44
+load monitor_address fail: -416
+./read_mt.exe: load config fail: -48
+[2018-11-21 10:12:16.661911] rmt_main.cpp:90(main): server start
+[2018-11-21 10:12:53.570759] rmt_main.cpp:90(main): server start
+[2018-11-21 10:27:39.999815] rmt_main.cpp:90(main): server start
+[2018-11-21 10:27:49.237767] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 20 2018 20:37:14
+process: read_mt exist
+[2018-11-21 10:44:04.676603] rmt_main.cpp:90(main): server start
+[2018-11-21 10:44:11.523321] rmt_main.cpp:90(main): server start
+[2018-11-21 10:46:43.272998] rmt_main.cpp:90(main): server start
+[2018-11-21 10:46:49.642043] rmt_main.cpp:90(main): server start
+[2018-11-21 10:51:22.935558] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 20 2018 20:37:14
+process: read_mt exist
+[2018-11-21 10:52:27.566876] rmt_main.cpp:90(main): server start
+[2018-11-21 10:54:19.379949] rmt_main.cpp:90(main): server start
+[2018-11-21 10:56:27.987314] rmt_main.cpp:90(main): server start
+[2018-11-21 10:58:02.513204] rmt_main.cpp:90(main): server start
+[2018-11-21 11:01:40.534904] rmt_main.cpp:90(main): server start
+[2018-11-21 11:06:09.313586] rmt_main.cpp:90(main): server start
+[2018-11-21 11:06:18.266631] rmt_main.cpp:90(main): server start
+[2018-11-21 11:07:18.365238] rmt_main.cpp:90(main): server start
+[2018-11-21 11:12:07.064330] rmt_main.cpp:90(main): server start
+[2018-11-21 11:12:13.165553] rmt_main.cpp:90(main): server start
+[2018-11-21 11:17:10.933147] rmt_main.cpp:90(main): server start
+[2018-11-21 11:17:17.554070] rmt_main.cpp:90(main): server start
+[2018-11-21 11:20:11.532531] rmt_main.cpp:90(main): server start
+[2018-11-21 11:20:17.075020] rmt_main.cpp:90(main): server start
+[2018-11-21 11:21:02.333852] rmt_main.cpp:90(main): server start
+[2018-11-21 11:23:29.837116] rmt_main.cpp:90(main): server start
+[2018-11-21 11:23:50.440404] rmt_main.cpp:90(main): server start
+[2018-11-21 11:25:14.784797] rmt_main.cpp:90(main): server start
+[2018-11-21 11:27:10.860658] rmt_main.cpp:90(main): server start
+[2018-11-21 11:27:15.973537] rmt_main.cpp:90(main): server start
+[2018-11-21 11:27:56.649293] rmt_main.cpp:90(main): server start
+[2018-11-21 11:33:50.087922] rmt_main.cpp:90(main): server start
+[2018-11-21 11:33:58.099145] rmt_main.cpp:90(main): server start
+[2018-11-21 11:37:11.121812] rmt_main.cpp:90(main): server start
+[2018-11-21 11:37:15.629893] rmt_main.cpp:90(main): server start
+[2018-11-21 11:52:24.177173] rmt_main.cpp:90(main): server start
+[2018-11-21 11:52:33.125058] rmt_main.cpp:90(main): server start
+[2018-11-21 13:02:46.296784] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 21 2018 11:23:08
+process: read_mt exist
+[2018-11-21 13:10:19.186942] rmt_main.cpp:90(main): server start
+[2018-11-21 13:20:19.603122] rmt_main.cpp:90(main): server start
+[2018-11-21 13:57:58.208597] rmt_main.cpp:90(main): server start
+[2018-11-21 14:01:58.181422] rmt_main.cpp:90(main): server start
+[2018-11-21 14:02:55.204347] rmt_main.cpp:90(main): server start
+[2018-11-21 14:05:04.474987] rmt_main.cpp:90(main): server start
+[2018-11-21 14:05:19.462492] rmt_main.cpp:90(main): server start
+[2018-11-21 14:49:11.853248] rmt_main.cpp:90(main): server start
+[2018-11-21 19:30:32.539913] rmt_main.cpp:90(main): server start
+[2018-11-21 19:34:44.023958] rmt_main.cpp:90(main): server start
+[2018-11-21 19:36:33.666978] rmt_main.cpp:90(main): server start
+[2018-11-21 19:39:19.704795] rmt_main.cpp:90(main): server start
+[2018-11-21 19:44:38.885832] rmt_main.cpp:90(main): server start
+[2018-11-21 19:44:48.936145] rmt_main.cpp:90(main): server start
+[2018-11-21 19:52:58.913301] rmt_main.cpp:90(main): server start
+[2018-11-21 20:05:21.065993] rmt_main.cpp:90(main): server start
+[2018-11-21 20:05:39.040925] rmt_main.cpp:90(main): server start
+[2018-11-21 20:08:57.667094] rmt_main.cpp:90(main): server start
+[2018-11-21 20:12:11.089340] rmt_main.cpp:90(main): server start
+[2018-11-21 20:16:29.133341] rmt_main.cpp:90(main): server start
+[2018-11-27 15:02:18.472910] rmt_main.cpp:90(main): server start
+[2018-11-27 15:33:36.127707] rmt_main.cpp:90(main): server start
+[2018-11-28 16:07:00.025017] rmt_main.cpp:90(main): server start
+[2018-11-28 16:10:40.177863] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 28 2018 15:33:21
+process: read_mt exist
+[2018-11-28 16:14:17.320330] rmt_main.cpp:90(main): server start
+[2018-11-28 16:29:15.317093] rmt_main.cpp:90(main): server start
+[2018-11-28 16:56:50.824864] rmt_main.cpp:90(main): server start
+[2018-11-28 17:22:25.751415] rmt_main.cpp:90(main): server start
+[2018-11-28 17:49:07.820124] rmt_main.cpp:90(main): server start
+[2018-11-28 17:52:14.840083] rmt_main.cpp:90(main): server start
+[2018-11-28 17:57:09.511532] rmt_main.cpp:90(main): server start
+[2018-11-28 18:04:12.748998] rmt_main.cpp:90(main): server start
+[2018-11-28 19:07:38.292070] rmt_main.cpp:90(main): server start
+[2018-11-28 19:24:09.447552] rmt_main.cpp:90(main): server start
+[2018-11-28 19:42:28.440336] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 28 2018 19:23:49
+process: read_mt exist
+[2018-11-28 19:52:35.424156] rmt_main.cpp:90(main): server start
+[2018-11-28 20:17:22.041568] rmt_main.cpp:90(main): server start
+[2018-11-28 20:26:48.529984] rmt_main.cpp:90(main): server start
+[2018-11-28 20:29:11.149863] rmt_main.cpp:90(main): server start
+[2018-11-29 10:56:21.755863] rmt_main.cpp:90(main): server start
+[2018-11-29 11:10:55.670141] rmt_main.cpp:90(main): server start
+[2018-11-29 13:12:36.463107] rmt_main.cpp:90(main): server start
+[2018-11-29 13:45:41.412974] rmt_main.cpp:90(main): server start
+[2018-11-29 14:51:31.725250] rmt_main.cpp:90(main): server start
+[2018-11-29 16:33:52.726079] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 29 2018 16:33:30
+process: read_mt exist
+[2018-11-29 19:35:32.934828] rmt_main.cpp:90(main): server start
+[2018-11-29 20:30:40.249322] rmt_main.cpp:90(main): server start
+[2018-11-30 10:27:47.850662] rmt_main.cpp:90(main): server start
+[2018-11-30 14:44:19.919558] rmt_main.cpp:90(main): server start
+[2018-11-30 14:53:42.223821] rmt_main.cpp:90(main): server start
+[2018-11-30 17:22:07.783689] rmt_main.cpp:90(main): server start
+[2018-11-30 17:22:19.840553] rmt_main.cpp:90(main): server start
+[2018-11-30 17:24:03.691214] rmt_main.cpp:90(main): server start
+process: read_mt version: 0.1.0, compile date: Nov 30 2018 17:14:03
+process: read_mt version: 0.1.0, compile date: Nov 30 2018 17:14:03
+process: read_mt version: 0.1.0, compile date: Dec  3 2018 15:25:57
+./read_mt.exe: init log fail: -37: No such file or directory
+process: read_mt version: 0.1.0, compile date: Dec  3 2018 15:25:57
+./read_mt.exe: init log fail: -37: No such file or directory
+[2018-12-03 15:48:39.191315] rmt_main.cpp:90(main): server start

@@ -1,0 +1,34 @@
+{
+    "debug": true,
+    "process": {
+        "file_limit": 1000000,
+        "core_limit": 1000000000
+    },
+    "log": {
+        "path": "log/log",
+        "flag": "fatal,error,warn,info,debug,trace",
+        "num": 10
+    },
+    "svr": {
+        "bind": [
+            "tcp@0.0.0.0:8190",
+            "udp@0.0.0.0:8190"
+        ],
+        "buf_limit": 100,
+        "max_pkg_size": 1024000,
+        "heartbeat_check": false
+    },
+    "db_history": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "pass": "abcd1234",
+        "name": "mt"
+    },
+    "worker_num": 8,
+    "asset_type": 2,
+    "pledge_ad":"wg7z9PrQR9DdS8m",
+    "start_num":0,
+    "end_num":364172,
+    "base_precision":1000000000000000000,
+    "save_precision":10
+}
