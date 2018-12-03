@@ -1,0 +1,12 @@
+{
+	"url" : "http://127.0.0.1:8080",
+	"db_history": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "pass": "abcd1234",
+        "name": "mt"
+    },
+	"from_id": "1ZaRTeJMu4TTwrA",
+	"key": "7c51cc37d6ff0ea5154992f52a26ee17e40aa731bad88c46453c38a66035cd17",
+	"asset_type": 2
+}
